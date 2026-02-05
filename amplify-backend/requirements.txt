@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+python-dotenv
+groq
+supabase
+beautifulsoup4
+pydantic
+curl-cffi>=0.5.10
+google-generativeai
+requests
+textblob
+playwright>=1.40.0
